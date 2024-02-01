@@ -1,1 +1,21 @@
-
+DoctorName,Specialty,PhoneNumber,Address,Charges
+Dr. Morris,Endocrinologist,012-345-6789,"808 Elm St, City",$200
+Dr. Smith,Cardiologist,123-456-7890,"123 Main St, City",$200
+Dr. Johnson,Dermatologist,234-567-8901,"456 Oak St, Town",$150
+Dr. Williams,Pediatrician,345-678-9012,"789 Maple St, Village",$120
+Dr. Davis,Neurologist,456-789-0123,"101 Pine St, Town",$220
+Dr. Martinez,Gynecologist,567-890-1234,"202 Elm St, City",$180
+Dr. Rodriguez,Orthopedic Surgeon,678-901-2345,"303 Cedar St, Village",$250
+Dr. Jackson,Psychiatrist,789-012-3456,"404 Birch St, City",$200
+Dr. Harris,Ophthalmologist,890-123-4567,"505 Pine St, Town",$180
+Dr. White,ENT Specialist,901-234-5678,"606 Oak St, Village",$190
+Dr. Clark,Urologist,012-345-6789,"707 Elm St, City",$210
+Dr. Turner,Gastroenterologist,123-456-7890,"808 Cedar St, Town",$220
+Dr. Hall,Rheumatologist,234-567-8901,"909 Maple St, Village",$200
+Dr. Baker,Dentist,345-678-9012,"101 Birch St, City",$120
+Dr. Ward,General Surgeon,456-789-0123,"202 Pine St, Town",$250
+Dr. Bell,Allergist,567-890-1234,"303 Oak St, City",$170
+Dr. Murphy,Oncologist,678-901-2345,"404 Elm St, Village",$230
+Dr. Reed,Podiatrist,789-012-3456,"505 Cedar St, Town",$150
+Dr. Cook,Nephrologist,890-123-4567,"606 Maple St, City",$210
+Dr. Cooper,Pulmonologist,901-234-5678,"707 Birch St, Village",$220
